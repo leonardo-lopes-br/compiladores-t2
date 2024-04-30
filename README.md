@@ -18,6 +18,9 @@ Caso não tenha o Maven instalado, pode-se baixá-lo por meio do link abaixo:
 Por fim, para a parte de testes, temos o corretor automático fornecido pelo professor. Este encontra-se no link abaixo:
 [Download corretor automático](https://github.com/dlucredio/compiladores-corretor-automatico/blob/master/target/compiladores-corretor-automatico-1.0-SNAPSHOT-jar-with-dependencies.jar)
 
+### Ambiente
+Recomenda-se o uso de uma das IDE's: IntelliJ ou NetBeans
+
 ### Execução
 
 O programa principal `LA_Parser.java` recebe dois parâmetros obrigatórios: o caminho para o arquivo de entrada e o caminho para o arquivo de saída, respectivamente.
